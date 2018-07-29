@@ -1,0 +1,6 @@
+-- Push to Github
+git push -u origin master
+
+# Pushing to Firebase
+## 'npm run build' in solution to get new build
+## 'firebase deploy'
