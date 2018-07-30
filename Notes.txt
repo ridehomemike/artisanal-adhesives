@@ -4,3 +4,6 @@ git push -u origin master
 # Pushing to Firebase
 ## 'npm run build' in solution to get new build
 ## 'firebase deploy'
+
+#Firebase How To
+https://firebase.google.com/docs/cli/
